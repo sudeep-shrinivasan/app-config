@@ -1,5 +1,7 @@
 security:      
       user:
-        name:"apsxsp"
-        password:"apsxsp"
+        name:apsxsp
+security:
+      user:
+         password:apsxsp
         
